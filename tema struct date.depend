@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1582556429 source:c:\users\stefan\desktop\tema struct date\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1584897021 source:c:\users\stefan\desktop\facultate\tema struct date\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<chrono>
+
